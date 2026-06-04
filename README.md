@@ -1,4 +1,4 @@
-# LaLiga Scouting Dashboard
+# LaLiga 2025-2026 Scouting Dashboard
 
 ## Project Overview
 
