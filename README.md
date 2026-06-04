@@ -6,6 +6,10 @@ Interactive scouting dashboard developed in Power BI to compare the offensive pe
 
 The dashboard allows quick player comparison through custom metrics, visualisations and key performance indicators.
 
+## Dashboard Preview
+
+![Scouting Dashboard](Dashboard_socuting_LaLiga.png)
+
 ## Tools Used
 
 - Power BI
